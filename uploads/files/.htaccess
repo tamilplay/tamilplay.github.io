@@ -1,0 +1,9 @@
+<FilesMatch ".*">
+   Order allow,deny
+   Deny from all
+</FilesMatch>
+
+<FilesMatch "\.(avi|divx|mp3|mp4|wmv|m4v|m4a|mov|mkv|webm|m3u8)$|^$">
+   Order deny,allow
+   Allow from all
+</FilesMatch>

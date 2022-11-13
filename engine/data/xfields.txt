@@ -1,0 +1,3 @@
+thumbnail|Thumbnail for the post||file||1|0|0|0|||0|0||png,jpeg,bmp,jpg,webp|||||||||||||1|0|
+dlink|Download Link||text||1|0|0|0|||0|0||||||||||||||||0|
+protected|Password protected file||yesorno||0|0|0|0|||0|0|||||0|||||||||||0|
