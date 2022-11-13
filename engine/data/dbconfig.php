@@ -1,6 +1,6 @@
 <?PHP
 
-define ("DBHOST", "64.90.32.249");
+define ("DBHOST", "mysql.jayasurya.co.in");
 
 define ("DBNAME", "jayasuryawp");
 
