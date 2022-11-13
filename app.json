@@ -1,0 +1,9 @@
+{
+  "name": "Google reverse proxy using go",
+  "description": "reverse proxy",
+  "keywords": [
+    "proxy",
+    "go"
+  ],
+  "repository": "https://github.com/fromxt/google-proxy-heroku"
+}
